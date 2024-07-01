@@ -12,3 +12,4 @@
 ## Overview
 This project provides code implementation about how to use the multi-view learning and low-rank representation(MVLR) model to achieve multiple traffic variable data simultaneous recovery.
 
+If you have any questions, feel free to contact me at yanghe@seu.edu.cn
