@@ -12,4 +12,16 @@
 ## Overview
 This project provides code implementation about how to use the multi-view learning and low-rank representation(MVLR) model to achieve multiple traffic variable data simultaneous recovery.
 
+
+
+
+If you find the code useful for your research, please cite our paper.  
+> @article{he2024integrated,  
+  title={An Integrated Intra-View and Inter-View Framework for Multiple Traffic Variable Data Simultaneous Recovery  
+  author={He, Yang and Jia, Yuheng and Jia, Yunqing and An, Chengchuan and Lu, Zhenbo and Xia, Jingxin},  
+  journal={IEEE Transactions on Intelligent Transportation Systems},  
+  year={2024},  
+  publisher={IEEE}  
+}
+
 If you have any questions, feel free to contact me at yanghe@seu.edu.cn
